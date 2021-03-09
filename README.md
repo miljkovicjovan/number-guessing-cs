@@ -1,3 +1,3 @@
 # Number Guessing Game in C#
 
-## YouTube [vide](https://youtu.be/WjGRhCkqzaA)
+## YouTube [video](https://youtu.be/WjGRhCkqzaA)
